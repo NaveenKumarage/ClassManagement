@@ -1,0 +1,6 @@
+id = 19
+Name = Naveen Dhakshitha
+Class = Grade 10 English
+Fess = 1500.0
+Month = February
+Date = 10
